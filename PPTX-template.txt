@@ -1,0 +1,55 @@
+Slide 1: Title & Project Identity
+
+Header: Event Name (e.g., Smart India Hackathon 2025)
+
+Project Meta-data: Problem Statement ID, Title, Theme, and Category.
+
+Team Meta-data: Team ID and Team Name.
+
+Visual: A relevant, striking graphic (e.g., AI Brain/Circuit).
+
+Slide 2: Idea / Approach (The "What" and "How")
+
+Solution Overview: A brief, high-level summary of what the software does (e.g., Automated Timetable Scheduler using specific algorithms).
+
+Workflow Diagram: A flowchart showing how data moves from input (time slots, courses, faculty preferences) to the final output (University Timetable).
+
+Use Case Diagram: A visual representation of who uses the system (Institute Coordinator, Department Coordinator) and what actions they perform.
+
+How it addresses the problem: Bullet points explaining the exact mechanism of solving the core issue.
+
+Innovation & Uniqueness: What makes this solution different (e.g., LLM integrations, handling hybrid modes, specific algorithm combinations).
+
+Slide 3: Technical Approach (The "Engine")
+
+Tech Stack Listing: Categorized list of technologies (Frontend, Backend, Databases, AI/Algorithms, Deployment).
+
+Architecture Diagram: A comprehensive map showing how the user interacts with the frontend, how it connects to the backend server, database storage, and the AI/Algorithm processing engine.
+
+Slide 4: Feasibility & Viability (The "Reality Check")
+
+Feasibility Bar Chart: Visual scoring (1-10) of different viabilities (Technical, Operational, Economic, Financial, User, Maintenance, Time).
+
+Feasibility Breakdown: Brief explanations for Technical, Economic, Operational, Financial, User viability, and Scalability.
+
+Risk & Mitigation Table: A two-column table listing "Potential Challenges/Risks" (e.g., Data Accuracy) against "Strategies for Overcoming Challenges."
+
+Slide 5: Impact & Benefits (The "Value & Future")
+
+Stakeholder Benefits Matrix: A table breaking down specific benefits for different users:
+
+Target 1 (e.g., Students): Balanced schedules, reduced idle time.
+
+Target 2 (e.g., Faculties): Fair workload, preference management.
+
+Target 3 (e.g., Administration): Reduced burden, resource optimization.
+
+Business Model: How the project could sustain itself or make money (e.g., Freemium model, Integration fees).
+
+Future Scope: What features are planned for the next phase (e.g., Mobile app, push notifications).
+
+Slide 6: Research & References (The "Credibility")
+
+Research Work: List of research papers, government policies (e.g., NEP 2020), or IEEE papers that inspired the logic/algorithms.
+
+Technical References: Links to the official documentation of the tech stack used (e.g., Next.js docs, MongoDB docs, Docker).
