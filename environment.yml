@@ -1,0 +1,9 @@
+name: fn
+dependencies:
+  - python=3.11
+  - pip=25.1.1
+  - ipykernel=6.29.5
+  - jupyter=1.1.1
+  - pyyaml=6.0.2
+  - pip:
+      - -r file:requirements.txt
